@@ -1,0 +1,2 @@
+http://blog0329.duapp.com/PHP/2018.3.20/admin/main.php
+http://blog0329.duapp.com/PHP/2018.3.20/index/index.php
